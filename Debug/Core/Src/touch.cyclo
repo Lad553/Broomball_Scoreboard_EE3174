@@ -1,0 +1,7 @@
+../Core/Src/touch.c:45:17:abs_diff_u16	2
+../Core/Src/touch.c:54:16:clamp_map_i32	4
+../Core/Src/touch.c:69:13:tsc2007_read_command	5
+../Core/Src/touch.c:87:13:tsc2007_enter_idle	2
+../Core/Src/touch.c:101:6:TSC2007_Init	5
+../Core/Src/touch.c:131:6:TSC2007_ReadRaw	24
+../Core/Src/touch.c:211:6:Touch_ReadScreenPoint	3
